@@ -1,5 +1,5 @@
 # p-star model
-In this project we analyse an exponential random graph model (ERGM) in which the sufficient statistics are the total numbers of p-stars in the network. (Note that the term p-star should not be confused with p*, which sometimes stands for ERGMs in general.) We also introduce its mean field analogue ("MF model") defined by the Hamiltonian which depends solely on the powers of connectance. It turns out that MF model can be solved using the PDE-based techniques and these analytical results are in excellent agreement with Monte Carlo simulations implemented in this repo.
+In this project we analyse an exponential random graph model (ERGM) in which the sufficient statistics are the total numbers of p-stars in the network. (Note that the term p-star should not be confused with p*, which sometimes stands for ERGMs in general.) We also introduce its mean field analogue ("MF model") defined by the Hamiltonian which depends solely on the powers of connectance. It turns out that MF model can be solved using the PDE-based techniques (apart from more conventional methods) and these analytical results are in excellent agreement with Monte Carlo simulations implemented in this repo.
 
 [comment]: <> (For better understanding see my PhD thesis available at ..., and https://github.com/OlegRS/ERGMs.)
 
